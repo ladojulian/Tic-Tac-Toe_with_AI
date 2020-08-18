@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Problems/Find mistake/out/
+/Problems/Find mistake/out/production/classes/
+/Problems/Find the seed/out/
+/Problems/Find the seed/out/production/classes/
+/Problems/Fix the method to print strings in the reverse order/out/
+/Problems/Fix the method to print strings in the reverse order/out/production/classes/
+/Problems/Number of decompositions/out/
+/Problems/Number of decompositions/out/production/classes/
+/Tic-Tac-Toe with AI/task/build/
+/Tic-Tac-Toe with AI/task/out/
+/Tic-Tac-Toe with AI/task/out/production/classes/
